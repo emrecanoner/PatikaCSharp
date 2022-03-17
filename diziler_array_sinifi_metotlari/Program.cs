@@ -4,7 +4,7 @@ namespace diziler_array_sinifi_metotlari
 {
     class Program
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             //Sort
             Console.WriteLine("***** Array Sort *****");

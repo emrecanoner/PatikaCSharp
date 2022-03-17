@@ -4,7 +4,7 @@ namespace diziler
 {
     class Program
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             //Dizi tanımlama
             string[] colors = new string[8];

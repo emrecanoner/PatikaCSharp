@@ -4,7 +4,7 @@ namespace donguler_for_loop
 {
     class Program
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Console.Write("Sayı giriniz: ");
             int counter = int.Parse(Console.ReadLine());
