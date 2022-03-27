@@ -15,6 +15,8 @@ namespace struct_kavrami
             rectangle_Struct.shortSide=3;
             rectangle_Struct.longSide=4;
             Console.WriteLine("Struct Alan Hesabı: "+rectangle_Struct.calculateArea());
+
+            //16 byte'a kadar olan veriler için struct, 16 byte'dan büyük veriler için class kullanın.
         }
     }
 
